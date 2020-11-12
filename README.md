@@ -7,4 +7,5 @@ Algorithm code:
 - comm2.py is the full system including communication with laptop and and full iris recognition
 - full2.py could also be used for the full-system, minus the communication part. This was used to save individual templates (and compare against others of the same subject)
 
+-full_multi2.py did the comparisons against the 1000+ images
 -all other code is for testing
